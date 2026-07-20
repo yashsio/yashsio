@@ -1,1 +1,1 @@
-Hello!, I recently migrated from Codeberg. Please feel free to look around.
+Hi, I am Yash. I like systems programming, especially in C, C++, Rust, and Zig.
