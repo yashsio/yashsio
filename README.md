@@ -1,1 +1,6 @@
-Hi, I am Yash. I like systems programming, especially in C, C++, Rust, and Zig.
+Hi, I am Yash.
+
+Site -> [https://thestaccato.github.io](https://thestaccato.github.io)
+
+
+
